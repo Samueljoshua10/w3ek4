@@ -22,7 +22,7 @@ capture during Step 8a, take any screen capture that shows
 that you have successfully installed Fedora)
 
 <!-- TODO -->
-![Alt Text](media/screen_%20shot1.png)
+![Alt Text](media/screen_%20shot1.png)*
 
 ## Project 2-2
 
