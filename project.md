@@ -43,7 +43,7 @@ keyboard shortcuts are disabled `settings>keyboard>shortcuts>keyboard`:
 Insert the screen capture, except “exit” your-command
 
 <!-- TODO -->
-![Alt Text](media/file.png)
+![Alt Text](media/project%202-4.png)
 
 ## Project 2-3
 
@@ -57,7 +57,7 @@ packages on your Fedora (this may take some time to complete)
 Insert the screen capture
 
 <!-- TODO -->
-![Alt Text](media/file.png)
+![Alt Text](media/2-3%20type%2010.png)
 
 ## Project 2-4
 
@@ -66,14 +66,14 @@ Insert the screen capture
 Insert the screen capture
 
 <!-- TODO -->
-![Alt Text](media/file.png)
+![Alt Text](media/pics%204.png)
 
 ### Step 10: 
 
 Insert the screen capture
 
 <!-- TODO -->
-![Alt Text](media/file.png)
+![Alt Text](media/pics%205.png)
 
 ## Project 2-5
 
@@ -83,7 +83,7 @@ Describe the purpose of the ; metacharacter
 
 <!-- TODO -->
 ```
-Your answer here.
+command termination, it allows you to terminate more than one commands on the same line 
 ```
 
 ### Step 12: 
@@ -92,14 +92,14 @@ What function do back quotes perform?
 
 <!-- TODO -->
 ```
-Your answer here.
+command substitution 
 ```
 
 Insert the screen capture.  Note: `whoami` should be wrapped in
 back quotes \` \` both beginning and end, such as `` `whoami` ``.
 
 <!-- TODO -->
-![Alt Text](media/file.png)
+![Alt Text](media/pics%206.png)
 
 ## Project 2-6
 
@@ -108,7 +108,7 @@ back quotes \` \` both beginning and end, such as `` `whoami` ``.
 Insert the screen capture
 
 <!-- TODO -->
-![Alt Text](media/file.png)
+![Alt Text](media/pics%207.png)
 
 ## Project 2-7
 
@@ -119,14 +119,14 @@ power off your Linux system immediately?
 
 <!-- TODO -->
 ```
-Your answer here.
+poweroff
 ```
 Which your-command
 reboot your Linux system immediately?
 
 <!-- TODO -->
 ```
-Your answer here.
+reboot
 ```
 
 ## Commands Learned
